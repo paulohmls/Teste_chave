@@ -1,1 +1,1 @@
-print("Hello World")
+os.walk('receita.txt', 'r')
